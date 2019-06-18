@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+            xmlns:app="http://schemas.android.com/apk/res-auto"
+            xmlns:tools="http://schemas.android.com/tools" android:id="@+id/nav_main"
+            app:startDestination="@id/mainFragment">
+
+    <fragment android:id="@+id/mainFragment" android:name="com.nosetrap.util.fragment.MainFragment" android:label="fragment_main"
+              tools:layout="@layout/fragment_main">
+        <action android:id="@+id/action_mainFragment_to_settingsFragment3" app:destination="@id/settingsFragment3"/>
+    </fragment>
+    <fragment android:id="@+id/settingsFragment3" android:name="com.nosetrap.util.fragment.SettingsFragment"
+              android:label="fragment_settings" tools:layout="@layout/fragment_settings">
+        <argument android:name="counterValue" app:argType="integer"/>
+    </fragment>
+</navigation>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+	<string name="minutes">%s Minuten</string>
+	<string name="hours">%s Stunden\u0020</string>
+	<string name="minute">%s Minute</string>
+	<string name="hour">%s Stunde\u0020</string>
+	<string name="january">Januar</string>
+	<string name="february">Februar</string>
+	<string name="march">März</string>
+	<string name="april">April</string>
+	<string name="may">Kann</string>
+	<string name="june">Juni</string>
+	<string name="july">Juli</string>
+	<string name="august">August</string>
+	<string name="september">September</string>
+	<string name="october">Oktober</string>
+	<string name="november">November</string>
+	<string name="december">Dezember</string>
+	<string name="dec">Dez</string>
+	<string name="nov">Nov</string>
+	<string name="oct">Okt</string>
+	<string name="sep">Sep</string>
+	<string name="aug">Aug</string>
+	<string name="jul">Jul</string>
+	<string name="jun">Jun</string>
+	<string name="apr">April</string>
+	<string name="mar">Beschädigen</string>
+	<string name="feb">Feb.</string>
+	<string name="jan">Jan</string>
+
+</resources>

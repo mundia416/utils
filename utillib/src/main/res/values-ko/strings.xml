@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+	<string name="minutes">%s 분</string>
+	<string name="hours">%s 시간\u0020</string>
+	<string name="minute">%s 분</string>
+	<string name="hour">%s 시간\u0020</string>
+	<string name="january">일월</string>
+	<string name="february">이월</string>
+	<string name="march">행진</string>
+	<string name="april">4 월</string>
+	<string name="may">할 수있다</string>
+	<string name="june">유월</string>
+	<string name="july">칠월</string>
+	<string name="august">팔월</string>
+	<string name="september">구월</string>
+	<string name="october">십월</string>
+	<string name="november">십일월</string>
+	<string name="december">12 월</string>
+	<string name="dec">12 월</string>
+	<string name="nov">11 월</string>
+	<string name="oct">10 월</string>
+	<string name="sep">9 월</string>
+	<string name="aug">8 월</string>
+	<string name="jul">7 월</string>
+	<string name="jun">6 월</string>
+	<string name="apr">4 월</string>
+	<string name="mar">3 월</string>
+	<string name="feb">2 월</string>
+	<string name="jan">1 월</string>
+
+</resources>

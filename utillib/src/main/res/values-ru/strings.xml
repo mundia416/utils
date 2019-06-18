@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+	<string name="minutes">%s минут</string>
+	<string name="hours">%s часов\u0020</string>
+	<string name="minute">%s минута</string>
+	<string name="hour">%s час\u0020</string>
+	<string name="january">январь</string>
+	<string name="february">февраль</string>
+	<string name="march">марш</string>
+	<string name="april">апрель</string>
+	<string name="may">май</string>
+	<string name="june">июнь</string>
+	<string name="july">июль</string>
+	<string name="august">августейший</string>
+	<string name="september">сентябрь</string>
+	<string name="october">октября</string>
+	<string name="november">ноябрь</string>
+	<string name="december">Декабрь</string>
+	<string name="dec">декабрь</string>
+	<string name="nov">ноябрь</string>
+	<string name="oct">октябрь</string>
+	<string name="sep">сентябрь</string>
+	<string name="aug">август</string>
+	<string name="jul">июль</string>
+	<string name="jun">июнь</string>
+	<string name="apr">апрель</string>
+	<string name="mar">март</string>
+	<string name="feb">февраль</string>
+	<string name="jan">январь</string>
+
+</resources>
